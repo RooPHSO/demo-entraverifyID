@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "route": "/.well-known/did.json",
+      "serve": "/.well-known/did.json"
+    }
+  ],
+  "mimeTypes": {
+    ".json": "application/json"
+  }
+}
